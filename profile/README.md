@@ -14,7 +14,7 @@
 |서예린|ISFP|궁금한 것도 많고 해보고 싶은 것도 많은 사람|
 |오나영|ISTP|배우고 싶은게 많고 잘하고 싶은 사람|
 |유시연|ESTP|더 나음을 위해 움직이는 사람|
-## Stack 💻
+## 기술스택 💻
 <img src="https://img.shields.io/badge/naver%20cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 
 <img src="https://img.shields.io/badge/My%20SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">

@@ -14,6 +14,9 @@
 |서예린|ISFP|궁금한 것도 많고 해보고 싶은 것도 많은 사람|
 |오나영|ISTP|배우고 싶은게 많고 잘하고 싶은 사람|
 |유시연|ESTP|더 나음을 위해 움직이는 사람|
+|윤혜민|ENFP|만루에 적시타를 ~~칠 수 있는~~ 치고 싶은 사람|
+|전상혁|ESFP|대상혁이 되는 그날까지|
+
 ## 기술스택 💻
 <img src="https://img.shields.io/badge/naver%20cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 
